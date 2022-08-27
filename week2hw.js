@@ -1,5 +1,5 @@
 let x = 12
-let y = 1
+let y = 2
 
 if(x > y) {
     console.log(x)
